@@ -40,7 +40,7 @@
 	```
 
 * 이미지 등록 확인 ( getImageData )
-	> 등록된 이미지의 RGB 데이터를 불러옵니다.
+	> 등록된 이미지의 RGB 데이터를 불러옵니다.  
 	> get RGB data of image.
 	```java
 	ImageLoader.getImageData(String imageName)
