@@ -45,3 +45,23 @@
 	```java
 	ImageLoader.getImageData(String imageName)
 	```
+
+### ImageParticle.java
+> 이미지 데이터를 파티클로 구현하는 클래스입니다. 
+> Spawn particle by image data.
+* 임포트 ( import )
+	```java
+	import com.bugi.b_imagetoparticle.ImageParticle
+	```
+
+* 생성자 ( constructor )
+	```java
+	public ImageParticle(World world, Location loc, String imageName)
+	```
+		
+* 파티클 생성 ( spawnParticle )
+	> 파티클을 생성합니다.  
+	> Spawn Particle.
+	```java
+	ImageParticle.spawnParticle(float rotateY, float rotateP, float interval, float size)
+	```
