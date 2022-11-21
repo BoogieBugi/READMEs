@@ -1,6 +1,13 @@
 # B_ImageToParticle
 ### 이미지 파일을 통해 파티클을 생성하는 라이브러리
 ### Create Particle Shapes by Image.
+<div>
+<a href="https://github.com/BoogieBugi"><img src=https://img.shields.io/badge/Github-000000?logo=github&style=flat-square>
+<a href="https://youtube.com/@Bu_Gi"><img src=https://img.shields.io/badge/Youtube-red?logo=youtube&style=flat-square>
+</div>
+<div>
+<img src=https://img.shields.io/badge/Java-orange?&style=flat-square>
+</div>
 
 ## Usages
 ### ImageLoader.java
