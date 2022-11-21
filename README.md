@@ -32,14 +32,14 @@
 	ImageLoader.isRegistered(String imageName)
 	```
 
-* 이미지 등록 확인 ( getImageList )
+* 이미지 리스트 반환 ( getImageList )
 	> 등록된 이미지 리스트를 불러옵니다.  
 	> Get name list of registered images.
 	```java
 	ImageLoader.getImageList()
 	```
 
-* 이미지 등록 확인 ( getImageData )
+* 이미지 데이터 반환 ( getImageData )
 	> 등록된 이미지의 RGB 데이터를 불러옵니다.  
 	> get RGB data of image.
 	```java
