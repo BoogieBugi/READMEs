@@ -10,12 +10,16 @@
 	```java
 	import com.bugi.b_imagetoparticle.ImageLoader
 	```
+
+
 * 이미지 등록 ( registerImage )
 	> 리소스 파일에서 이미지를 불러와 등록합니다.
 	> Register data of image in plugin's resources folder.
 	```java
 	ImageLoader.registerImage(Plugin plugin, String imageName, String fileName)
 	```
+
+
 * 이미지 등록 취소 ( unregisterImage )
 	> 등록되어 있는 이미지 데이터를 제거합니다,
 	> Unregister data of image.
